@@ -1,0 +1,26 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "A simple Telegram bot, with Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirAskari1380/TelegramBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirAskari1380/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/AmirAskari1380/TelegramBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
